@@ -1,0 +1,10 @@
+Bread Type,Bake Temp (°F),Bake Time Per Side (min),Final Spritz (Y/N),Scoring,Deck Restrictions,Capacity Per Deck,Sheets Per Deck,Capacity Per Sheet,Notes
+Pan Loaf (Miche),350-400,13,Y,,Top 6 Decks,12,2.0,6,Standard pan loaf; miche variant
+Pan Loaf (Sourdough),350-400,13,Y,,Top 6 Decks,12,2.0,6,Standard pan loaf; sourdough variant
+Hoagies,400-450,9,Y,,All 9 Decks,18,2.0,9,"Only bottom 3 decks for hottest baking, quick turnaround"
+Sandoh Round,400-450,9,Y,,Top 6 Decks,24,2.0,12,Round sandwich rolls
+Miche Boule,400-450,18,Y,Crescent,Top 6 Decks,8,,8,Large round miche; scored with single crescent for ear
+Seeded Boule,400-450,18,Y,Cross,Top 6 Decks,8,,8,Same size as miche boule; scored with cross
+Rustique,400-450,15,N,,Top 6 Decks,8,,8,Rustic-style bread; no final spritz
+Baguette,400-450,15,Y,5 Diagonals,Top 6 Decks,8,,8,Standard long baguette
+Poppy Baguette,400-450,15,Y,5 Diagonals,Top 6 Decks,8,,8,Same as baguette but with poppy seeds
