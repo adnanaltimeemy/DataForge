@@ -1,0 +1,16 @@
+Age,Income,FamilySize,SpendingScore,OnlineShopper,OrganicPreference,PurchaseCategory
+25,30000,1,60,1,0,Snacks
+45,60000,4,40,0,1,Vegetables
+35,50000,3,55,1,1,Fruits
+23,28000,1,65,1,0,Snacks
+52,75000,5,35,0,1,Vegetables
+40,62000,4,50,1,1,Dairy
+29,32000,2,70,1,0,Snacks
+48,68000,4,45,0,1,Vegetables
+33,52000,3,60,1,1,Fruits
+55,80000,5,30,0,1,Vegetables
+38,58000,3,55,1,1,Dairy
+27,31000,2,75,1,0,Snacks
+42,64000,4,50,0,1,Dairy
+31,49000,2,65,1,0,Fruits
+60,90000,6,25,0,1,Vegetables
